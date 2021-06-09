@@ -1,0 +1,78 @@
+span{
+    font-size: large;
+}
+div#main{
+    padding: 0;
+}
+img.logo{
+    height: 8vh;
+    width: 25vw;
+    padding-left:25%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+
+}
+div.navbar-nav{
+    padding-left: 10%;
+    font-size: 1.2em;
+}
+nav.navbar{
+    padding: 0;
+}
+div#navbar a.nav-link.active{
+    color: #005AAB;
+}
+div#navbar a.nav-link{
+    color: white;
+  
+    
+}
+div#navbar a.nav-link:hover{
+    /* background-color: white; */
+    color: #005AAB;
+}
+img.slider{
+    height: 91vh;
+    width: 100vw;
+}
+div h2{
+    text-align: center;
+    color: #005AAB;
+    padding-bottom: 3%;
+}
+div.about{
+    padding:4% 6%;
+}
+div#navbarback{
+    background-color: black;
+}
+p.tech{
+    text-align: center;
+}
+div.tech{
+    padding: 0 6%;
+}
+ div.bor1{
+    border-top: solid #005AAB;
+} 
+div.bor{
+    border-top: solid #005AAB;
+} 
+img.sponsers{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 90%;
+}
+div.contact{
+    background-color: black;
+    padding-bottom: 5%;
+}
+div.contact h4{
+    text-align: center;
+    color: white;
+}
+div.contact p{
+    text-align: center;    color: grey;
+
+}
